@@ -4,5 +4,6 @@
     <service-instance name="Feeder1" x="284" y="164"/>
     <service-instance name="Display1" x="752" y="121"/>
     <service-instance name="Display2" x="616" y="237"/>
+    <service-instance name="Feeder2" x="487" y="23"/>
   </subflow>
 </layout>
